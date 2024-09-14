@@ -1,0 +1,81 @@
+Cluster 2:	 4a2c_A_CYS_SG_38_A_GLY_N_39.pdb	 metal
+Cluster 2:	 4a2c_B_CYS_SG_38_B_GLY_N_39.pdb	 metal
+Cluster 2:	 7aas_A_CYS_SG_178_A_GLY_N_179.pdb	 metal
+Cluster 2:	 7aas_B_CYS_SG_178_B_GLY_N_179.pdb	 metal
+Cluster 2:	 7aas_D_CYS_SG_178_D_GLY_N_179.pdb	 metal
+Cluster 2:	 7aas_E_CYS_SG_178_E_GLY_N_179.pdb	 metal
+Cluster 2:	 5ac3_A_CYS_SG_200_A_GLY_N_201.pdb	 disulfide
+Cluster 2:	 3atq_A_CYS_SG_47_A_GLY_N_48.pdb	 5-membered ring-structure
+Cluster 2:	 4ay7_A_CYS_SG_319_A_GLY_N_320.pdb	 metal
+Cluster 2:	 4ay7_B_CYS_SG_319_B_GLY_N_320.pdb	 metal
+Cluster 2:	 7b28_C_CYS_SG_144_C_GLY_N_145.pdb	 disulfide
+Cluster 2:	 2bkr_A_CYS_SG_163_A_GLY_N_164.pdb	 C-S bond?
+Cluster 2:	 6c49_A_CYS_SG_153_A_GLY_N_154.pdb	 metal
+Cluster 2:	 4d5g_A_CYS_SG_428_A_GLY_N_429.pdb	 5-membered ring-structure
+Cluster 2:	 4d5g_B_CYS_SG_428_B_GLY_N_429.pdb	 5-membered ring-structure
+Cluster 2:	 3efy_B_CYS_SG_109_B_GLY_N_110.pdb	 5-membered ring-structure
+Cluster 2:	 6eib_A_CYS_SG_72_A_GLY_N_73.pdb	 di-sulfide
+Cluster 2:	 6eib_B_CYS_SG_72_B_GLY_N_73.pdb	 di-sulfide
+Cluster 2:	 6eib_C_CYS_SG_72_C_GLY_N_73.pdb	 di-sulfide
+Cluster 2:	 6eib_D_CYS_SG_72_D_GLY_N_73.pdb	 di-sulfide
+Cluster 2:	 6esk_A_CYS_SG_106_A_GLY_N_107.pdb	 5-membered ring-structure
+Cluster 2:	 6esv_A_CYS_SG_106_A_GLY_N_107.pdb	 5-membered ring-structure
+Cluster 2:	 7f27_B_CYS_SG_339_B_GLY_N_340.pdb	 5-membered ring-structure
+Cluster 2:	 3gqj_A_CYS_SG_123_A_GLY_N_124.pdb	 5-membered ring-structure
+Cluster 2:	 6h0c_A_CYS_SG_367_A_GLY_N_368.pdb	 5-membered ring-structure
+Cluster 2:	 6h0d_A_CYS_SG_367_A_GLY_N_368.pdb	 5-membered ring-structure
+Cluster 2:	 6h98_A_CYS_SG_370_A_GLY_N_371.pdb	 5-membered ring-structure
+Cluster 2:	 6h99_A_CYS_SG_370_A_GLY_N_371.pdb	 5-membered ring-structure
+Cluster 2:	 4ium_A_CYS_SG_270_A_GLY_N_271.pdb	 S-C bond
+Cluster 2:	 4jbl_B_CYS_SG_309_B_GLY_N_310.pdb	 5-membered ring-structure
+Cluster 2:	 4jji_A_CYS_SG_177_A_GLY_N_178.pdb	 metal
+Cluster 2:	 6jow_A_CYS_SG_95_A_GLY_N_96.pdb	 5-membered ring-structure
+Cluster 2:	 6jow_B_CYS_SG_95_B_GLY_N_96.pdb	 5-membered ring-structure
+Cluster 2:	 6jow_C_CYS_SG_95_C_GLY_N_96.pdb	 5-membered ring-structure
+Cluster 2:	 6jow_D_CYS_SG_95_D_GLY_N_96.pdb	 5-membered ring-structure
+Cluster 2:	 5k6k_B_CYS_SG_291_B_GLY_N_292.pdb	 di-sulfide and  5-membered ring-structure
+Cluster 2:	 6ktw_A_CYS_SG_370_A_GLY_N_371.pdb	 5-membered ring-structure
+Cluster 2:	 6ktw_A_CYS_SG_412_A_GLY_N_413.pdb	 5-membered ring-structure
+Cluster 2:	 6ktz_A_CYS_SG_370_A_GLY_N_371.pdb	 5-membered ring-structure
+Cluster 2:	 6kvy_A_CYS_SG_370_A_GLY_N_371.pdb	 5-membered ring-structure
+Cluster 2:	 4l6h_A_CYS_SG_739_A_GLY_N_740.pdb	 metal
+Cluster 2:	 4l6o_A_CYS_SG_739_A_GLY_N_740.pdb	 metal
+Cluster 2:	 5lhe_A_CYS_SG_8_A_GLY_N_9.pdb	     5-membered ring-structure
+Cluster 2:	 2bkr_A_CYS_SG_163_A_GLY_N_164.pdb	 5-membered ring-structure
+Cluster 2:	 6cjk_D_CYS_SG_128_D_GLY_N_129.pdb	 5-membered ring-structure
+Cluster 2:	 2fk1_A_CYS_SG_174_A_GLY_N_175.pdb	 di-sulfide
+Cluster 2:	 6jdh_A_CYS_SG_166_A_GLY_N_167.pdb	 metal
+Cluster 2:	 6jdh_B_CYS_SG_166_B_GLY_N_167.pdb	 metal
+Cluster 2:	 5lhf_A_CYS_SG_8_A_GLY_N_9.pdb	     Lys-NOS-Cys
+Cluster 2:	 5lhf_B_CYS_SG_8_B_GLY_N_9.pdb       Lys-NOS-Cys
+Cluster 2:	 1m21_A_CYS_SG_200_A_GLY_N_201.pdb	 5-membered ring-structure
+Cluster 2:	 1m21_B_CYS_SG_200_B_GLY_N_201.pdb	 5-membered ring-structure
+Cluster 2:	 3mb8_A_CYS_SG_204_A_GLY_N_205.pdb	 5-membered ring-structure
+Cluster 2:	 3mb8_B_CYS_SG_204_B_GLY_N_205.pdb	 5-membered ring-structure
+Cluster 2:	 3mhf_C_CYS_SG_276_C_GLY_N_277.pdb	 Ambiguous density
+Cluster 2:	 6mpz_C_CYS_SG_27_C_GLY_N_28.pdb	 S-carbon bond
+Cluster 2:	 4n0h_B_CYS_SG_31_B_GLY_N_32.pdb	 5-membered ring-structure
+Cluster 2:	 4n0i_B_CYS_SG_31_B_GLY_N_32.pdb	 5-membered ring-structure
+Cluster 2:	 5od3_A_CYS_SG_98_A_GLY_N_93.pdb     metal
+Cluster 2:	 5od3_C_CYS_SG_98_C_GLY_N_93.pdb     metal
+Cluster 2:	 5od3_D_CYS_SG_98_D_GLY_N_93.pdb	 metal
+Cluster 2:	 3oha_A_CYS_SG_262_A_GLY_N_263.pdb	 5-membered ring-structure
+Cluster 2:	 4opd_A_CYS_SG_47_A_GLY_N_48.pdb	 5-membered ring-structure
+Cluster 2:	 4opd_B_CYS_SG_47_B_GLY_N_48.pdb	 5-membered ring-structure
+Cluster 2:	 1p0f_B_CYS_SG_2046_B_GLY_N_2047.pdb metal
+Cluster 2:	 2ps2_A_CYS_SG_299_A_GLY_N_300.pdb	 5-membered ring-structure
+Cluster 2:	 2ps2_B_CYS_SG_299_B_GLY_N_300.pdb	 5-membered ring-structure
+Cluster 2:	 2ps2_C_CYS_SG_299_C_GLY_N_300.pdb	 5-membered ring-structure
+Cluster 2:	 2ps2_D_CYS_SG_299_D_GLY_N_300.pdb	 5-membered ring-structure
+Cluster 2:	 4rf6_B_CYS_SG_421_B_GLY_N_422.pdb	 5-membered ring-structure
+Cluster 2:	 3rpd_A_CYS_SG_322_A_GLY_N_323.pdb	 metal
+Cluster 2:	 3rpd_B_CYS_SG_322_B_GLY_N_323.pdb	 metal
+Cluster 2:	 6sz4_A_CYS_SG_201_A_GLY_N_202.pdb	 5-membered ring-structure
+Cluster 2:	 1v5x_A_CYS_SG_6_A_GLY_N_7.pdb	     5-membered ring-structure
+Cluster 2:	 1v5x_B_CYS_SG_6_B_GLY_N_7.pdb	     5-membered ring-structure
+Cluster 2:	 5w9q_A_CYS_SG_338_A_GLY_N_339.pdb	 metal
+Cluster 2:	 5w9q_B_CYS_SG_338_B_GLY_N_339.pdb	 metal
+Cluster 2:	 4yf5_A_CYS_SG_91_A_GLY_N_92.pdb	 metal
+Cluster 2:	 2zty_A_CYS_SG_147_A_GLY_N_148.pdb	 Ambiguous density
+Cluster 2:	 3rq4_A_CYS_SG_111_A_LYS_NZ_122.pdb	
+

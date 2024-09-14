@@ -1,0 +1,9 @@
+# requirements
+python 3.6
+BioPython
+PyPDF2
+python 3.8
+pandas
+umap-learn
+scikit-learn
+numpy

@@ -1,0 +1,548 @@
+The following data represents the statistics for the neighbor amino acids
+ to the target residues corresponding to Fig.2(C)(f) and (C)(j) for ARG-N{\eta}OS-CYS.
+The order of presentation is Prob.NOS 1, Prob. NOS 2, and Improb. NOS.
+Note that the residue containing the target atom is included in the sets
+ of neighboring amino acids presented here. This self-inclusion should be
+  disregarded when interpreting the results.
+ For clarity, this residue has been omitted from the caption of Fig.2.
+----------------------------------------------------------------------------
+Prob. NOS 1:
+Statistics for ngb_Res_toN_set (from highest to lowest):
+                                Set  Count
+                         (LYS, ARG)      5
+               (LYS, ILE, LEU, VAL)      4
+                    (LYS, PRO, ALA)      4
+          (GLU, TYR, LYS, ASN, VAL)      4
+          (GLU, ARG, CYS, ASP, PHE)      4
+               (LYS, LEU, VAL, CYS)      4
+               (CYS, ARG, ILE, ASP)      3
+          (ARG, THR, CYS, GLN, PRO)      3
+                    (ARG, TYR, ALA)      3
+          (LEU, THR, CYS, ASP, ARG)      3
+     (ILE, LEU, ALA, CYS, LYS, ASN)      3
+               (LYS, GLY, VAL, CYS)      3
+               (LYS, ILE, GLY, VAL)      3
+                    (PHE, ARG, LEU)      3
+               (LYS, ARG, MET, PHE)      3
+               (LYS, ARG, LEU, CYS)      3
+                    (CYS, ARG, GLY)      3
+          (ILE, GLY, ARG, VAL, SER)      3
+                    (ARG, GLY, TYR)      3
+          (THR, CYS, GLY, ASP, ARG)      3
+                    (ARG, THR, ASP)      2
+               (LYS, ARG, GLU, GLY)      2
+                    (ARG, LEU, SER)      2
+               (ARG, GLY, THR, ASP)      2
+               (ARG, LEU, SER, ALA)      2
+                    (ARG, THR, TYR)      2
+                         (ARG, MET)      2
+          (LEU, ALA, LYS, ARG, MSE)      2
+          (LEU, GLY, ARG, TRP, VAL)      2
+          (GLU, TYR, GLY, ASP, ARG)      2
+     (ALA, CYS, LYS, ASP, ARG, MET)      2
+          (ALA, LYS, ASP, ARG, MET)      2
+               (CYS, ARG, GLU, GLY)      2
+          (LEU, ALA, CYS, ARG, VAL)      2
+               (ARG, LEU, CYS, SER)      2
+                    (ARG, ILE, ALA)      2
+                    (ARG, GLU, CYS)      2
+                    (ARG, GLY, VAL)      2
+                         (ARG, GLY)      2
+          (LEU, CYS, GLY, ASN, ARG)      2
+               (LYS, ARG, PHE, VAL)      2
+               (ARG, GLU, LEU, SER)      2
+(GLU, LEU, CYS, GLY, ARG, VAL, SER)      2
+     (HIS, ILE, ASN, ARG, VAL, SER)      2
+          (CYS, GLY, ASN, ASP, ARG)      2
+     (ILE, THR, ALA, CYS, LYS, SER)      2
+     (GLU, LEU, ALA, CYS, ARG, VAL)      2
+                    (HIS, ARG, GLN)      2
+                         (ARG, VAL)      2
+          (LEU, GLY, CYS, LYS, VAL)      2
+               (LYS, ILE, VAL, ALA)      2
+          (LEU, ARG, ASP, PHE, VAL)      2
+          (HIS, ILE, LYS, ARG, TRP)      2
+                         (LYS, PRO)      2
+               (LYS, ARG, CYS, TYR)      2
+          (ILE, LEU, THR, CYS, LYS)      2
+               (PHE, ARG, LEU, VAL)      2
+               (LYS, GLU, LEU, GLN)      2
+               (CYS, ARG, GLY, VAL)      2
+          (ILE, GLU, THR, LYS, VAL)      2
+                    (ARG, LEU, ASP)      1
+          (ARG, CYS, GLY, ASP, PHE)      1
+               (LYS, ARG, CYS, SER)      1
+                    (ARG, LEU, GLN)      1
+               (ARG, TRP, LEU, GLN)      1
+                         (ARG, CYS)      1
+(GLU, ALA, CYS, GLY, GLN, ARG, SER)      1
+          (ILE, LEU, CYS, LYS, ASN)      1
+          (LEU, THR, GLY, LYS, ARG)      1
+               (HIS, ARG, LEU, VAL)      1
+               (LYS, CYS, SER, ALA)      1
+                    (ARG, CYS, ALA)      1
+                         (GLY, SER)      1
+          (LEU, ALA, CYS, ASN, ARG)      1
+               (ARG, CYS, THR, ASP)      1
+               (LYS, PHE, GLU, SER)      1
+          (HIS, ILE, ARG, VAL, SER)      1
+(ALA, CYS, LYS, ASN, ASP, ARG, MET)      1
+          (LEU, ALA, LYS, ARG, MET)      1
+          (ILE, THR, ALA, CYS, LYS)      1
+          (ILE, ARG, THR, PHE, VAL)      1
+     (ILE, THR, ALA, CYS, LYS, ASP)      1
+                    (LYS, ASN, MSE)      1
+          (LEU, TYR, CYS, LYS, ASP)      1
+               (LYS, PHE, SER, THR)      1
+               (LYS, ARG, VAL, CYS)      1
+(ILE, LEU, CYS, LYS, ASP, MET, VAL)      1
+     (LEU, ALA, CYS, LYS, TRP, VAL)      1
+                    (LYS, MET, CYS)      1
+               (LYS, LEU, GLY, CYS)      1
+          (GLU, THR, GLY, LYS, VAL)      1
+                    (LYS, ILE, GLY)      1
+                    (LYS, LEU, ASP)      1
+               (LYS, ARG, LEU, GLY)      1
+                    (LYS, ARG, ILE)      1
+                    (LYS, ARG, SER)      1
+               (LYS, ILE, VAL, CYS)      1
+               (ARG, MET, SER, TYR)      1
+               (ARG, GLU, ASP, TYR)      1
+               (LYS, ILE, CYS, ALA)      1
+          (TYR, ALA, LYS, GLN, VAL)      1
+                    (LYS, ARG, THR)      1
+               (CYS, ARG, GLY, THR)      1
+          (ILE, LEU, LYS, VAL, SER)      1
+               (ARG, GLU, PRO, ASP)      1
+               (ARG, VAL, ILE, ASP)      1
+          (GLU, GLN, ARG, MET, VAL)      1
+                    (ARG, GLU, THR)      1
+               (ARG, GLU, VAL, GLN)      1
+                    (PHE, ILE, SER)      1
+(LEU, TYR, CYS, LYS, ASN, GLN, ARG)      1
+               (ARG, LEU, GLY, VAL)      1
+                    (ARG, VAL, SER)      1
+     (HIS, TYR, LYS, GLN, ASP, ARG)      1
+     (GLU, CYS, GLY, LYS, ARG, TRP)      1
+               (ARG, LEU, GLU, ILE)      1
+          (ARG, ASN, PHE, TRP, SER)      1
+               (ARG, GLU, GLY, ILE)      1
+                    (HIS, ARG, ASP)      1
+               (CYS, ARG, VAL, THR)      1
+     (LEU, ALA, CYS, GLY, ARG, MET)      1
+          (CYS, GLY, ASP, ARG, SER)      1
+                    (ARG, SER, TYR)      1
+               (CYS, ARG, LEU, GLY)      1
+          (LEU, LYS, ASP, ARG, VAL)      1
+     (LEU, ALA, CYS, LYS, ARG, VAL)      1
+          (LEU, ARG, GLY, ASP, PHE)      1
+               (CYS, ARG, GLY, ALA)      1
+     (ILE, GLU, TYR, GLY, ARG, MET)      1
+               (ARG, GLY, VAL, GLN)      1
+          (ARG, GLN, ASP, PHE, VAL)      1
+          (ILE, ALA, ARG, MET, VAL)      1
+               (CYS, ARG, VAL, ASP)      1
+               (PRO, ARG, GLY, LYS)      1
+                    (PRO, CYS, SER)      1
+                    (LYS, ARG, PRO)      1
+               (ARG, LEU, SER, ASP)      1
+                    (ARG, GLY, ILE)      1
+               (LYS, ARG, GLU, CYS)      1
+                    (ARG, CYS, TYR)      1
+     (ALA, CYS, ASN, ASP, ARG, TRP)      1
+                    (ARG, GLY, ASP)      1
+                    (ARG, GLY, ALA)      1
+          (HIS, THR, GLY, GLN, ARG)      1
+                    (ARG, GLU, LEU)      1
+                    (ARG, CYS, THR)      1
+     (GLU, ARG, ALA, CYS, GLY, PHE)      1
+               (ARG, MET, GLY, LEU)      1
+                    (ARG, GLU, ILE)      1
+          (ILE, GLU, ARG, PHE, VAL)      1
+               (CYS, ARG, GLU, VAL)      1
+          (ILE, CYS, ASP, ARG, SER)      1
+     (GLU, LEU, CYS, LYS, ASN, ARG)      1
+               (ARG, VAL, ILE, ALA)      1
+          (ILE, ALA, CYS, ARG, VAL)      1
+          (ILE, LEU, GLY, ARG, VAL)      1
+                    (LYS, ARG, LEU)      1
+                    (LYS, ILE, TYR)      1
+               (ARG, CYS, THR, ALA)      1
+                    (ARG, LEU, VAL)      1
+               (ARG, GLU, VAL, ALA)      1
+          (GLU, ARG, TYR, CYS, PRO)      1
+               (HIS, ARG, CYS, THR)      1
+                         (PHE, ASN)      1
+               (ARG, GLY, VAL, SER)      1
+                    (ARG, MET, ALA)      1
+                    (ARG, GLU, GLY)      1
+     (HIS, ILE, ARG, ALA, GLN, PHE)      1
+(LEU, TYR, CYS, GLY, ASN, ARG, VAL)      1
+               (LYS, ARG, ILE, CYS)      1
+               (ARG, GLU, CYS, MET)      1
+          (HIS, THR, CYS, GLY, ARG)      1
+     (LEU, TYR, CYS, LYS, GLN, ARG)      1
+                    (ARG, VAL, ALA)      1
+                    (HIS, ARG, ILE)      1
+          (ARG, THR, ASP, PHE, SER)      1
+               (PHE, ARG, SER, THR)      1
+               (ARG, ASN, ASP, ALA)      1
+               (LYS, ILE, GLU, VAL)      1
+
+Statistics for ngb_Res_toS_set (from highest to lowest):
+                           Set  Count
+               (ILE, LEU, CYS)      5
+          (CYS, VAL, SER, ASP)      5
+               (CYS, PHE, ILE)      5
+          (HIS, GLU, CYS, ALA)      4
+               (LYS, LEU, CYS)      4
+          (CYS, TRP, GLY, SER)      4
+               (CYS, GLY, THR)      4
+          (CYS, GLY, VAL, THR)      4
+     (GLU, LEU, ALA, CYS, ARG)      3
+          (GLU, CYS, LEU, ASP)      3
+          (CYS, GLU, VAL, LEU)      3
+               (CYS, ILE, GLY)      3
+          (ASN, CYS, LEU, ASP)      3
+          (HIS, PHE, CYS, LYS)      3
+     (THR, ALA, CYS, ASP, ARG)      3
+               (CYS, ILE, VAL)      3
+               (PHE, GLU, CYS)      3
+          (HIS, LEU, CYS, ALA)      3
+               (CYS, GLU, GLY)      3
+          (CYS, GLU, TYR, ALA)      3
+               (CYS, VAL, GLN)      3
+(HIS, GLU, THR, CYS, PHE, PRO)      3
+     (THR, CYS, GLY, PHE, MET)      3
+          (ILE, LEU, CYS, ASP)      3
+          (GLU, MET, CYS, ALA)      3
+               (CYS, GLY, ASP)      3
+               (CYS, GLN, THR)      3
+               (CYS, PHE, PRO)      2
+          (ASN, CYS, ASP, ALA)      2
+          (CYS, PRO, GLU, VAL)      2
+               (CYS, SER, ASP)      2
+     (TYR, ALA, CYS, GLY, ASP)      2
+          (LYS, ILE, VAL, CYS)      2
+          (CYS, GLY, ASP, ALA)      2
+               (CYS, ASP, ALA)      2
+     (LEU, THR, TYR, CYS, VAL)      2
+          (PHE, GLU, CYS, LEU)      2
+               (LYS, CYS, GLN)      2
+               (ILE, CYS, GLN)      2
+          (HIS, TRP, CYS, GLN)      2
+               (CYS, GLY, TYR)      2
+     (CYS, LYS, PHE, TRP, VAL)      2
+          (CYS, ILE, VAL, ASP)      2
+               (CYS, ASP, TYR)      2
+     (ARG, ALA, CYS, ASP, PRO)      2
+          (CYS, ILE, GLY, ALA)      2
+                    (CYS, ASP)      2
+          (THR, CYS, SER, ALA)      2
+     (ALA, CYS, LYS, PHE, PRO)      2
+               (PRO, CYS, ASP)      2
+               (CYS, GLY, ALA)      2
+               (GLU, CYS, ASP)      2
+          (CYS, GLY, GLN, SER)      2
+          (CYS, VAL, SER, ALA)      2
+(ILE, ALA, CYS, GLY, PHE, MET)      2
+          (LYS, PHE, CYS, SER)      2
+     (ILE, LEU, THR, CYS, TRP)      2
+          (LYS, ARG, CYS, GLN)      2
+          (CYS, LEU, VAL, TYR)      2
+     (ARG, CYS, GLY, PHE, MET)      2
+     (LEU, CYS, GLY, PRO, SER)      2
+     (ALA, CYS, PRO, VAL, SER)      2
+          (ARG, LEU, CYS, ASP)      2
+     (ALA, CYS, LYS, ASN, ARG)      2
+               (ASN, CYS, ASP)      2
+     (GLU, ALA, CYS, GLY, SER)      1
+               (ARG, CYS, TYR)      1
+     (LEU, ALA, CYS, GLY, PHE)      1
+     (HIS, CYS, GLY, LYS, ASN)      1
+     (GLU, TYR, ALA, CYS, ASP)      1
+     (THR, ALA, CYS, GLN, PHE)      1
+               (THR, CYS, SER)      1
+          (PHE, GLU, CYS, GLN)      1
+          (CYS, ARG, PRO, ALA)      1
+               (LEU, CYS, ASP)      1
+               (CYS, ARG, VAL)      1
+     (THR, CYS, LYS, ASP, VAL)      1
+          (CYS, PRO, ASN, GLY)      1
+               (CYS, VAL, TYR)      1
+     (HIS, GLU, THR, CYS, PHE)      1
+     (GLU, THR, CYS, PHE, SER)      1
+(HIS, ILE, CYS, GLY, LYS, SER)      1
+     (THR, ALA, CYS, GLY, PRO)      1
+               (HIS, GLY, CYS)      1
+     (ILE, LEU, CYS, GLY, ASN)      1
+          (CYS, GLU, GLY, VAL)      1
+               (LEU, CYS, TYR)      1
+     (CYS, ASP, PHE, PRO, VAL)      1
+     (TYR, CYS, MET, VAL, SER)      1
+               (CYS, OCS, TYR)      1
+          (PHE, GLU, CYS, ASP)      1
+               (ILE, CYS, SER)      1
+          (LYS, GLY, CYS, SER)      1
+     (LEU, GLY, CYS, LYS, VAL)      1
+     (TYR, CYS, LYS, PHE, SER)      1
+     (HIS, GLU, LEU, CYS, GLY)      1
+          (CYS, GLU, VAL, THR)      1
+                    (LEU, CYS)      1
+               (LEU, CYS, THR)      1
+          (HIS, ILE, CYS, GLN)      1
+               (CYS, ARG, GLY)      1
+     (ILE, GLU, CYS, ASN, VAL)      1
+          (ASN, CYS, THR, ASP)      1
+     (LEU, CYS, GLY, ASP, PHE)      1
+          (LEU, CYS, THR, ALA)      1
+     (ALA, CYS, LYS, ASP, MET)      1
+(ILE, ALA, CYS, ASP, PHE, SER)      1
+               (CYS, GLY, VAL)      1
+               (PHE, CYS, ASP)      1
+               (LYS, GLU, CYS)      1
+               (LYS, CYS, TYR)      1
+          (CYS, ARG, GLU, GLY)      1
+          (HIS, ILE, CYS, THR)      1
+          (HIS, LEU, GLY, CYS)      1
+                    (CYS, THR)      1
+               (LYS, GLY, CYS)      1
+               (ASN, CYS, THR)      1
+     (GLU, LEU, CYS, LYS, ARG)      1
+                    (CYS, SER)      1
+(LEU, ALA, CYS, ASN, ARG, SER)      1
+     (LEU, ALA, CYS, ASN, ARG)      1
+     (TYR, ALA, CYS, ASP, PRO)      1
+          (LYS, ILE, LEU, CYS)      1
+     (HIS, ILE, LEU, CYS, PHE)      1
+                    (ASN, CYS)      1
+               (CYS, VAL, ASP)      1
+     (GLU, LEU, CYS, VAL, SER)      1
+          (HIS, GLY, CYS, ALA)      1
+     (THR, ALA, CYS, PRO, SER)      1
+          (HIS, CYS, LYS, ASP)      1
+     (ILE, GLU, CYS, ARG, TRP)      1
+          (ARG, TRP, CYS, TYR)      1
+          (CYS, PHE, ASN, PRO)      1
+(ILE, CYS, GLY, GLN, ASP, ARG)      1
+     (LEU, GLU, THR, CYS, ARG)      1
+(ILE, GLU, LEU, CYS, PRO, VAL)      1
+               (PHE, CYS, TYR)      1
+     (ILE, ALA, CYS, ASP, ARG)      1
+               (CYS, LEU, VAL)      1
+          (CYS, ILE, ASN, GLY)      1
+               (ILE, MET, CYS)      1
+                        (CYS,)      1
+(ILE, THR, CYS, GLN, ASP, VAL)      1
+               (ILE, CYS, ALA)      1
+          (ARG, CYS, ASP, TYR)      1
+     (HIS, CYS, ASP, ARG, TRP)      1
+          (CYS, PHE, PRO, ASP)      1
+               (ARG, CYS, ALA)      1
+     (LEU, ALA, CYS, GLN, ARG)      1
+               (ARG, LEU, CYS)      1
+(LEU, THR, ALA, CYS, GLY, PRO)      1
+          (CYS, GLY, THR, TYR)      1
+     (ILE, THR, CYS, GLY, PHE)      1
+          (CYS, ASN, VAL, LEU)      1
+          (CYS, GLN, THR, ALA)      1
+               (CYS, ARG, ILE)      1
+               (CYS, ASN, VAL)      1
+     (ALA, CYS, GLY, LYS, ARG)      1
+               (GLU, CYS, THR)      1
+          (LYS, ASN, VAL, CYS)      1
+               (ARG, CYS, GLN)      1
+     (ILE, GLU, CYS, PRO, VAL)      1
+               (PHE, CYS, SER)      1
+----------------------------------------------------------------------------
+Prob. NOS 1:
+Statistics for ngb_Res_toN_set (from highest to lowest):
+                                Set  Count
+          (VAL, LEU, GLY, ARG, TRP)     30
+          (VAL, LEU, THR, GLN, ARG)     17
+               (CYS, LEU, ARG, ILE)      5
+               (LEU, ARG, THR, GLN)      4
+               (LEU, TRP, ARG, GLY)      4
+                    (CYS, ARG, GLY)      4
+          (ILE, GLY, CYS, ARG, PRO)      3
+                    (ARG, GLY, ILE)      3
+                    (TYR, LEU, ARG)      3
+          (VAL, LEU, PHE, GLN, ARG)      2
+                         (PRO, ARG)      2
+                    (VAL, ASN, ARG)      2
+               (PHE, GLU, ARG, ASP)      2
+               (LEU, PRO, ARG, SER)      2
+               (ASN, ARG, GLY, ASP)      2
+               (VAL, ARG, THR, CYS)      2
+                         (ARG, THR)      2
+                    (GLU, ARG, GLY)      2
+                         (ARG, GLY)      2
+                    (LYS, TYR, MET)      2
+                    (GLU, LYS, ASP)      2
+     (MET, ALA, CYS, ARG, LYS, ASP)      2
+          (ILE, GLU, ARG, LYS, SER)      1
+               (CYS, PRO, ARG, LYS)      1
+               (CYS, LEU, GLY, LYS)      1
+                    (GLU, PRO, ARG)      1
+               (VAL, ARG, GLY, LYS)      1
+                    (CYS, ARG, THR)      1
+                    (SER, GLU, ARG)      1
+                    (SER, PRO, ARG)      1
+               (VAL, PHE, ARG, THR)      1
+               (VAL, GLU, ARG, THR)      1
+          (VAL, ILE, ARG, PRO, TYR)      1
+          (GLU, GLY, ARG, TYR, ASP)      1
+                    (VAL, LEU, ARG)      1
+                    (TYR, ARG, THR)      1
+                         (ASN, ARG)      1
+                    (ARG, ILE, LYS)      1
+(GLU, GLY, GLN, ALA, CYS, ARG, SER)      1
+               (TYR, LEU, PHE, ARG)      1
+               (CYS, ASN, ARG, GLN)      1
+          (GLY, THR, ALA, ARG, TRP)      1
+               (VAL, GLU, ARG, GLN)      1
+               (ALA, ARG, GLY, CYS)      1
+               (ALA, TYR, ARG, MET)      1
+               (TRP, ARG, GLY, GLN)      1
+          (GLY, CYS, ARG, PRO, ASP)      1
+                    (TYR, ARG, GLY)      1
+               (ALA, ARG, GLY, GLN)      1
+               (LEU, GLU, ARG, LYS)      1
+                    (LEU, ARG, SER)      1
+                    (GLU, ARG, MET)      1
+               (TYR, LEU, ARG, LYS)      1
+                    (LYS, ARG, ASP)      1
+          (VAL, LEU, PHE, ARG, SER)      1
+               (ASN, ARG, GLY, LYS)      1
+(ASN, ILE, GLY, MET, CYS, ARG, SER)      1
+          (GLU, CYS, ARG, PRO, TYR)      1
+     (GLY, CYS, ARG, PRO, SER, ASP)      1
+          (VAL, LEU, GLU, PHE, ARG)      1
+          (VAL, ILE, GLU, ARG, PRO)      1
+          (ILE, PHE, HIS, ARG, TYR)      1
+                    (LEU, PHE, ARG)      1
+                    (ARG, THR, ASP)      1
+          (LEU, GLU, ARG, SER, TYR)      1
+                    (ALA, LEU, ARG)      1
+          (VAL, LEU, GLN, ARG, TYR)      1
+                    (CYS, SER, ARG)      1
+          (GLU, GLN, CYS, ARG, TRP)      1
+               (VAL, GLU, HIS, LYS)      1
+
+Statistics for ngb_Res_toS_set (from highest to lowest):
+                           Set  Count
+          (CYS, TRP, HIS, GLN)     30
+               (CYS, LEU, GLY)     17
+                    (CYS, GLY)      6
+          (ALA, LEU, CYS, MET)      5
+          (VAL, GLY, CYS, ASP)      4
+          (ALA, TRP, CYS, MET)      4
+          (CYS, ARG, GLY, GLN)      4
+          (CYS, SER, GLY, ILE)      3
+                    (CYS, GLU)      3
+               (ALA, ILE, CYS)      3
+     (GLY, ALA, CYS, HIS, ARG)      2
+               (CYS, TRP, SER)      2
+          (VAL, GLY, THR, CYS)      2
+          (VAL, LEU, CYS, MET)      2
+               (CYS, LEU, TYR)      2
+     (GLY, GLN, CYS, ARG, SER)      2
+(ILE, GLY, GLN, CYS, ARG, ASP)      2
+               (CYS, GLU, THR)      2
+               (CYS, TRP, GLY)      2
+                    (CYS, THR)      2
+               (CYS, GLU, PHE)      2
+               (CYS, PHE, ILE)      2
+          (ALA, PHE, VAL, CYS)      1
+     (VAL, LEU, GLY, CYS, LYS)      1
+               (VAL, GLU, CYS)      1
+     (LEU, PHE, THR, CYS, TYR)      1
+               (CYS, SER, ARG)      1
+               (CYS, LEU, ARG)      1
+               (CYS, ARG, ASP)      1
+     (GLU, GLY, ALA, CYS, SER)      1
+          (CYS, LEU, PHE, THR)      1
+               (CYS, GLU, ASP)      1
+          (ALA, SER, HIS, CYS)      1
+          (CYS, GLY, ILE, MET)      1
+     (VAL, LEU, THR, GLN, CYS)      1
+     (VAL, CYS, ARG, LYS, TYR)      1
+     (LEU, GLY, THR, CYS, TYR)      1
+               (CYS, LEU, SER)      1
+     (ASN, ILE, GLY, CYS, ARG)      1
+               (CYS, GLU, ARG)      1
+(LEU, GLU, GLN, ALA, CYS, ASP)      1
+     (LEU, PHE, GLY, CYS, LYS)      1
+          (CYS, GLU, THR, GLN)      1
+               (CYS, LEU, GLN)      1
+               (VAL, CYS, ASP)      1
+               (CYS, GLY, ILE)      1
+               (TYR, ARG, CYS)      1
+     (VAL, LEU, GLU, CYS, SER)      1
+(PHE, CYS, ARG, LYS, PRO, SER)      1
+          (ALA, LEU, CYS, LYS)      1
+               (TYR, GLY, CYS)      1
+               (CYS, LEU, GLU)      1
+          (CYS, LEU, ARG, ASP)      1
+     (GLN, CYS, ARG, LYS, PRO)      1
+          (TYR, GLY, THR, CYS)      1
+               (CYS, GLU, GLY)      1
+               (CYS, SER, ASP)      1
+               (CYS, ASN, GLY)      1
+          (CYS, LEU, GLU, ASP)      1
+          (ALA, LEU, THR, CYS)      1
+     (LEU, GLN, ALA, CYS, ASP)      1
+     (THR, GLN, CYS, LYS, PRO)      1
+               (CYS, LYS, MET)      1
+     (CYS, HIS, ARG, TRP, ASP)      1
+(GLU, GLY, GLN, ALA, CYS, LYS)      1
+          (VAL, SER, CYS, LYS)      1
+----------------------------------------------------------------------------
+Improb. NOS:
+Statistics for ngb_Res_toN_set (from highest to lowest):
+                           Set  Count
+          (ARG, SER, GLY, PRO)     12
+               (ARG, LYS, ILE)     11
+(ALA, MET, GLU, CYS, ARG, ASP)      4
+          (ARG, LYS, GLU, ILE)      4
+     (VAL, THR, GLN, LEU, ARG)      3
+(VAL, TYR, ILE, LEU, ARG, GLY)      3
+     (ALA, GLU, LEU, ARG, LYS)      2
+          (ARG, HIS, ASP, GLY)      1
+          (ARG, GLN, ILE, GLY)      1
+(VAL, TYR, ALA, CYS, ARG, LYS)      1
+               (ARG, SER, LEU)      1
+               (ARG, GLN, ILE)      1
+     (VAL, PRO, CYS, SER, ARG)      1
+(VAL, TYR, ALA, ASN, PRO, ARG)      1
+               (ARG, THR, CYS)      1
+     (VAL, TYR, ILE, LEU, ARG)      1
+          (ARG, GLN, ALA, GLY)      1
+               (ARG, THR, PRO)      1
+     (PHE, THR, ILE, ASN, ARG)      1
+     (PHE, VAL, GLU, LEU, ARG)      1
+(THR, CYS, SER, ARG, ASP, GLY)      1
+          (VAL, LYS, ILE, GLY)      1
+
+Statistics for ngb_Res_toS_set (from highest to lowest):
+                           Set  Count
+          (THR, GLN, CYS, LEU)     13
+               (LEU, CYS, GLY)      7
+               (THR, ASP, CYS)      6
+          (THR, ASP, LEU, CYS)      6
+     (VAL, GLN, LEU, CYS, THR)      3
+               (CYS, ILE, GLY)      2
+          (ARG, ILE, ASN, CYS)      2
+     (ILE, ASN, LEU, CYS, ARG)      2
+     (THR, VAL, CYS, SER, ARG)      2
+     (VAL, ALA, LEU, CYS, SER)      1
+(VAL, TYR, ALA, LEU, CYS, ARG)      1
+               (CYS, ILE, LEU)      1
+               (VAL, ALA, CYS)      1
+                    (VAL, CYS)      1
+               (THR, SER, CYS)      1
+               (ARG, CYS, LEU)      1
+               (ALA, CYS, SER)      1
+          (VAL, ASP, GLY, CYS)      1
+     (VAL, ILE, LEU, CYS, GLY)      1
+               (CYS, GLN, ILE)      1
