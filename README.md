@@ -5,7 +5,7 @@
 **simplifiedBondfinder** is an automated framework for classifying and discovering various bonds and interactions in protein structures.
 
 **Versatile algorithm for protein bond discovery: NOS linkages as a case study**\
-*Sophia Bazzi, Sharareh Sayyad*, [arXiv](https://arxiv.org).
+*Sophia Bazzi, Sharareh Sayyad*, [arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/66e92a7451558a15ef381a5e).
 
 
 
