@@ -202,7 +202,7 @@ After completing the automated descriptor selection process, you can perform adv
 
 <img align="left" width="100" height="100" src="https://github.com/ChemBio-DataLab/SimplifiedBondfinder/blob/main/Logo.png"> If you find this code useful in your work, please cite our article
 ``**Versatile algorithm for protein bond discovery: NOS linkages as a case study**''
-Sophia Bazzi, Sharareh Sayyad, [arXiv](https://arxiv.org).
+Sophia Bazzi, Sharareh Sayyad, [arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/66e92a7451558a15ef381a5e).
 
 
 ## License
